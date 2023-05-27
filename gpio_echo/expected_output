@@ -1,0 +1,5 @@
+GPIO module gpio0 output pin 12 set 1.
+GPIO module gpio0 input pin 9 is 1.
+GPIO module gpio0 output pin 12 set 0.
+GPIO module gpio0 input pin 9 is 0.
+Test successfully finished.
